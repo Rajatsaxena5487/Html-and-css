@@ -1,0 +1,36 @@
+body{
+  background-color:#ECFBFD;
+}
+
+
+
+table,th{
+  border:2px solid black;
+  border-collapse: collapse;
+  }
+td{
+border:1px solid black;
+  border-collapse: collapse;
+}
+
+  table{
+    width:100%;
+  }
+th{
+  color:white;
+background:#F36F68;
+  height:50px;
+}
+tr{
+  color:white;
+}
+
+h1{
+  color:#F16055;
+}
+
+
+td{
+padding-left:15px;
+
+}
